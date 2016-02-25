@@ -1,0 +1,1 @@
+Moved to https://github.com/mausch/SolrNet/blob/master/Documentation/Spell-checking.md

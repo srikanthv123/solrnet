@@ -1,0 +1,1 @@
+Documentation moved to https://github.com/mausch/SolrNet/blob/master/Documentation/README.md

@@ -1,0 +1,1 @@
+Source code has been moved to github: http://github.com/mausch/SolrNet

@@ -1,0 +1,1 @@
+Issue tracker has been moved to Github: https://github.com/mausch/SolrNet/issues

@@ -1,0 +1,1 @@
+Moved to https://github.com/mausch/SolrNet/blob/master/Documentation/NHibernate-integration.md

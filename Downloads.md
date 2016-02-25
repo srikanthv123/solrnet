@@ -1,0 +1,1 @@
+See https://github.com/mausch/SolrNet/blob/master/Documentation/README.md#downloads
